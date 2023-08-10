@@ -87,11 +87,8 @@ const desserts: Dessert[] = [
                     Expanded content for {{ item.raw.name }}
                   </div>
                 </td>
-
               </tr>
-
           </template>
-
         </v-data-table>
     </div>
 </template>
